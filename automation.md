@@ -8,7 +8,7 @@ Automation includes almost all technological progress since the first [industria
 
 There are multiple dimensions to automating work -- be skeptical of anyone trying to sell a simple "grand unified theory" of automation's effect on unemployment. Such a person is uninformed or trying to sell you something.
 
-# Section 1: The Facts
+# Part 1: The Facts
 
 ### 1) We automate tasks, not jobs
 
@@ -70,7 +70,7 @@ A classic example showing why this is wrong is the industrial revolution. Before
 
 At this point, the smart reader might ask: *"if there's an infinite amount of work to be done in the economy, how is there any unemployment at all?"* This is a deep question, which we'll touch in section **XXX**.
 
-#### 3) Automation can help or hurt depending on who you are
+### 3) Automation can help or hurt depending on who you are
 
 If technology automates some important task in your job, the effect will be different different depending on your economic status. The main factors are what job you do, where you are geographically, what your education level is, your level of wealth and your social connections.
 
@@ -90,7 +90,7 @@ Here is another example. When ATMs were introduced to banks, people thought bank
 
 This is to show that it's extremely difficult to predict the effect of automating a task on the workers who do that task a priori. Because automation is a wide-ranging force in the economy, the most effective way to learn which scenarios play out is to instead study the trends in the labor force. This is what we'll do in the next few sections.
 
-#### 4) Automation seems to increase inequality
+### 4) Automation seems to increase inequality
 
 Automating work will always make the country richer on average. This doesn't mean that everyone will get richer -- automation can increase or decrease inequality. But it's important to know that **technological progress always changes the distribution of wealth**. Even if a new technology is a clear improvement on all fronts, the ones profiting from the existing system will be losers. If we made a perfectly clean and renewable energy source, the people profiting from fossil fuels would be poorer, and the distribution of wealth would change to be more equal.
 
@@ -172,9 +172,12 @@ Getting a college degree leads to much higher wages. This means people are ready
 
 The same dynamic applies with housing in large cities. Explanations that get lost in details about college administrative costs and larger home sizes lose the forest for the trees: the administrative costs are a way in which the value of a college degree is being captured, not a fundamental cause.
 
-# TAKEAWAY: Don't be concerned about unemployment. Be concerned about low quality unemployment.
+## TAKEAWAY: Don't be concerned about unemployment. Be concerned about low quality unemployment.
 
-# XXX) Universal Basic Income is not a good answer to automation's problems
+
+# Part 2: Solutions
+
+### XXX) Universal Basic Income is not a good answer to automation's problems
 
 Universal Basic Income (UBI) isn't necessarily a bad idea.
 
@@ -190,13 +193,11 @@ UBI is exactly equivalent to a normal welfare system with taxes coming in and ca
 
 
 
-# XXX) Fix urban housing prices
+### XXX) Fix urban housing prices
 
 Cities are intrinsic to productive growth in a knowledge economy (cesar hidalgo source???)
 
 LAND VALUE TAX LAND VALUE TAX LAND VALUE TAX
-
-# XXX)
 
 Original FAQ stuff here
 
