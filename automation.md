@@ -172,7 +172,7 @@ Getting a college degree leads to much higher wages. This means people are ready
 
 The same dynamic applies with housing in large cities. Explanations that get lost in details about college administrative costs and larger home sizes lose the forest for the trees: the administrative costs are a way in which the value of a college degree is being captured, not a fundamental cause.
 
-## TAKEAWAY: Don't be concerned about unemployment. Be concerned about low quality unemployment.
+## TAKEAWAY: Don't be concerned about hypothetical future unemployment. Be concerned about low quality unemployment right now.
 
 We've seen that while automation is the core engine for economic growth in the last 200 years, in the last 30 years automation has also increased inequality. While we shouldn't be concerned about humans becoming economically useless, we should be concerned about large demographics **feeling useless** due to dire job prospects. 
 
