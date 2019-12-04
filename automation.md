@@ -174,8 +174,23 @@ The same dynamic applies with housing in large cities. Explanations that get los
 
 ## TAKEAWAY: Don't be concerned about unemployment. Be concerned about low quality unemployment.
 
+We've seen that while automation is the core engine for economic growth in the last 200 years, in the last 30 years automation has also increased inequality. While we shouldn't be concerned about humans becoming economically useless, we should be concerned about large demographics **feeling useless** due to dire job prospects. 
+
+This is especially true for rural demographics and those with low education. It's not a coincidence that this is one of the few demographics in the last century whose life expectancy [has worsened](https://www.brookings.edu/wp-content/uploads/2017/08/casetextsp17bpea.pdf): these are so-called "deaths of despair".
 
 # Part 2: Solutions
+
+
+
+According to [Furman (2016)](https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF) 
+
+- Keep investing in AI because the benefits massively outweigh the negatives.
+
+- Ensure more widely accessible and flexible education for all to prepare for jobs of the future
+
+- Aid workers in job transitions
+
+- Ensure that the benefits of automation are broadly shared
 
 ### XXX) Universal Basic Income is not a good answer to automation's problems
 
