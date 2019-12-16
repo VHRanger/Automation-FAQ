@@ -10,7 +10,24 @@ There are multiple dimensions to automating work -- be skeptical of anyone tryin
 
 # Part 1: The Facts
 
-### 1) We automate tasks, not jobs
+
+### 1) Automation and free trade have similar effects on labor
+
+Imagine this scenario: you do menial work in a factory. One day, your boss comes in and tells you one of the following:
+
+- "This factory is being relocated to a country where wages are 1/20ths of yours, you're fired."
+
+- "Your job is being replaced by the new *WorkaTron9000*, you're fired."
+
+Which would you prefer? 
+
+The answer, of course, is that you don't really care -- you're out of a job either way.
+
+In both the cases of free trade and automation, we replace what was previously done by labor with capital. In one case we do it by buying machines to make the product, and in the other we do it by giving the money in exchange for the final product. 
+
+https://slate.com/business/2019/10/andrew-yang-automation-unemployment-freedom-dividend.html
+
+### 2) We automate tasks, not jobs
 
 A job is made from of a bundle of tasks. For example, [O*NET][6] defines the job of [post-secondary architecture teacher][7] as made up of 21 tasks including ones like:
 
@@ -46,7 +63,8 @@ https://xkcd.com/1319/
 
 Automating a task within a job doesn't mean the job will stop existing. It's impossible to predict the effects -- the number of people employed and the wage of those workers can both go up or down depending on economic factors we'll discuss in section **XXX**.
 
-### 2) Humans are not horses
+
+### 3) Humans are not horses
 
 CGP Grey's [Humans Need Not Apply][12] makes a famous argument: humans today are in the same position horses were in the 1910s. That is, humans are about to be entirely redundant and replaced by machines which can do everything a human can, but more efficiently.
 
@@ -68,9 +86,9 @@ Automating a task does not mean there is "one fewer" task to be done in the econ
 
 A classic example showing why this is wrong is the industrial revolution. Before the invention of the steam engine more than [95% of humans were employed on farms][15], whereas today this number is around 2%. The remaining 93% of the population didn't go out of a job -- automating this work freed up the labor force to be put to more productive use over time. Some went to school instead of working on the family farm, some started working in factories, etc. Over time, the labor force reallocated away from agriculture.
 
-At this point, the smart reader might ask: *"if there's an infinite amount of work to be done in the economy, how is there any unemployment at all?"* This is a deep question, which we'll touch in section **XXX**.
+**Sidenote:** The keen reader at this point will ask: *"if there's an infinite amount of work to be done in the economy, how is there any unemployment at all?"* The main reason is that it takes some time to find a job. If everyone who wants work either has a job or is looking for work, the economy is said to be at the [natural rate of unemployment](https://en.wikipedia.org/wiki/Natural_rate_of_unemployment). Unemployment rates above that "natural" number are consided to be "a bad thing".
 
-### 3) Automation can help or hurt depending on who you are
+### 4) Automation can help or hurt depending on who you are
 
 If technology automates some important task in your job, the effect will be different different depending on your economic status. The main factors are what job you do, where you are geographically, what your education level is, your level of wealth and your social connections.
 
@@ -90,7 +108,7 @@ Here is another example. When ATMs were introduced to banks, people thought bank
 
 This is to show that it's extremely difficult to predict the effect of automating a task on the workers who do that task a priori. Because automation is a wide-ranging force in the economy, the most effective way to learn which scenarios play out is to instead study the trends in the labor force. This is what we'll do in the next few sections.
 
-### 4) Automation seems to increase inequality
+### 5) Automation seems to increase inequality
 
 Automating work will always make the country richer on average. This doesn't mean that everyone will get richer -- automation can increase or decrease inequality. But it's important to know that **technological progress always changes the distribution of wealth**. Even if a new technology is a clear improvement on all fronts, the ones profiting from the existing system will be losers. If we made a perfectly clean and renewable energy source, the people profiting from fossil fuels would be poorer, and the distribution of wealth would change to be more equal.
 
@@ -132,13 +150,13 @@ David Autor Youtube Talk: https://www.youtube.com/watch?v=th3nnEpITz0
 
 *   Where tech seems to be unable to replicate is in superstar industries
 
-### 5) Automation makes it harder to match your skills to a job
+### 6) Automation makes it harder to match your skills to a job
 
 Automation probably hurts workers and might create a skill mismatch (Acemoglu & Restreppo) : https://www.nber.org/papers/w24196.pdf
 
 More evidence of this in the Beveridge Curve shift
 
-### 6) If you're not a college graduate living in a city, automation probably hurt you
+### 7) If you're not a college graduate living in a city, automation probably hurt you
 
 The simplest way to make this point is with the following hard-to-read figure from [here][23]
 
@@ -148,7 +166,7 @@ The way to read this plot is as follows: each of the 3 charts represent a 20 yea
 
 What this chart shows is clear: the labor force is **moving to cities** and **increasing in education**. Take these facts and put them in the context of of the rising gap in income between high and low education workers and rising urban housing prices (see previous section). This paints a bleak picture for everyone who isn't college educated and working in a large city: lowering wages and diminishing economic prospects.
 
-### 7) Landlords and Colleges are big winners from the above facts
+### 8) Landlords and Colleges are big winners from the above facts
 
 A lot of [ink has been spilled][24] trying to explain the explosion of healthcare prices in the united states. In both health care, education and urban housing the price has grown at a multiple of average income:
 
