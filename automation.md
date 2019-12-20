@@ -10,24 +10,7 @@ There are multiple dimensions to automating work -- be skeptical of anyone tryin
 
 # Part 1: The Facts
 
-
-### 1) Automation and free trade have similar effects on labor
-
-Imagine this scenario: you do menial work in a factory. One day, your boss comes in and tells you one of the following:
-
-- "This factory is being relocated to a country where wages are 1/20ths of yours, you're fired."
-
-- "Your job is being replaced by the new *WorkaTron9000*, you're fired."
-
-Which would you prefer? 
-
-The answer, of course, is that you don't really care -- you're out of a job either way.
-
-In both the cases of free trade and automation, we replace what was previously done by labor with capital. In one case we do it by buying machines to make the product, and in the other we do it by giving the money in exchange for the final product. 
-
-https://slate.com/business/2019/10/andrew-yang-automation-unemployment-freedom-dividend.html
-
-### 2) We automate tasks, not jobs
+### 1) We automate tasks, not jobs
 
 A job is made from of a bundle of tasks. For example, [O*NET][6] defines the job of [post-secondary architecture teacher][7] as made up of 21 tasks including ones like:
 
@@ -63,7 +46,6 @@ https://xkcd.com/1319/
 
 Automating a task within a job doesn't mean the job will stop existing. It's impossible to predict the effects -- the number of people employed and the wage of those workers can both go up or down depending on economic factors we'll discuss in section **XXX**.
 
-
 ### 3) Humans are not horses
 
 CGP Grey's [Humans Need Not Apply][12] makes a famous argument: humans today are in the same position horses were in the 1910s. That is, humans are about to be entirely redundant and replaced by machines which can do everything a human can, but more efficiently.
@@ -86,13 +68,13 @@ Automating a task does not mean there is "one fewer" task to be done in the econ
 
 A classic example showing why this is wrong is the industrial revolution. Before the invention of the steam engine more than [95% of humans were employed on farms][15], whereas today this number is around 2%. The remaining 93% of the population didn't go out of a job -- automating this work freed up the labor force to be put to more productive use over time. Some went to school instead of working on the family farm, some started working in factories, etc. Over time, the labor force reallocated away from agriculture.
 
-**Sidenote:** The keen reader at this point will ask: *"if there's an infinite amount of work to be done in the economy, how is there any unemployment at all?"* The main reason is that it takes some time to find a job. If everyone who wants work either has a job or is looking for work, the economy is said to be at the [natural rate of unemployment](https://en.wikipedia.org/wiki/Natural_rate_of_unemployment). Unemployment rates above that "natural" number are consided to be "a bad thing".
+**Sidenote:** The keen reader at this point will ask: *"if there's an infinite amount of work to be done in the economy, how is there any unemployment at all?"* The main reason is that it takes some time to find a job. If everyone who wants work either has a job or is looking for work, the economy is said to be at the [natural rate of unemployment][16]. Unemployment rates above that "natural" number are consided to be "a bad thing".
 
 ### 4) Automation can help or hurt depending on who you are
 
 If technology automates some important task in your job, the effect will be different different depending on your economic status. The main factors are what job you do, where you are geographically, what your education level is, your level of wealth and your social connections.
 
-It's almost impossible to know a priori what the effect will be. Let's take the example of a radiologist, where a core task of the job (making diagnoses based on X-Ray images) is [soon automated](). What won't happen is "radiologists don't exist anymore" -- they have [28 other tasks to work on][16] which aren't automated. That said, several scenarios can play out:
+It's almost impossible to know a priori what the effect will be. Let's take the example of a radiologist, where a core task of the job (making diagnoses based on X-Ray images) is [soon automated](). What won't happen is "radiologists don't exist anymore" -- they have [28 other tasks to work on][17] which aren't automated. That said, several scenarios can play out:
 
 *   A radiologist now sees many additional clients, because their workload per client is reduced. Existing radiologists make more money.
 
@@ -100,9 +82,9 @@ It's almost impossible to know a priori what the effect will be. Let's take the 
 
 *   People don't want/need more radiology services. Existing radiologists can't/don't find new specialties. We have as many radiologists, but they're paid less.
 
-As we see, in the same case, our radiologist can end up making more money, less money and keep his job, or lose his job entirely. Which scenario plays out depends on economic factors like the [elasticity of supply/demand][17], the [substitution effect][18], the [income effect][19].
+As we see, in the same case, our radiologist can end up making more money, less money and keep his job, or lose his job entirely. Which scenario plays out depends on economic factors like the [elasticity of supply/demand][18], the [substitution effect][19], the [income effect][20].
 
-Here is another example. When ATMs were introduced to banks, people thought bank tellers would quickly stop existing. While each bank branch employed fewer tellers, more bank branches opened, and there were eventuallly [more bank teller jobs over all][20]
+Here is another example. When ATMs were introduced to banks, people thought bank tellers would quickly stop existing. While each bank branch employed fewer tellers, more bank branches opened, and there were eventuallly [more bank teller jobs over all][21]
 
 --> graph of ATM vs bank tellers here https://voxeu.org/sites/default/files/image/FromMay2014/bessenfig1.png <----
 
@@ -112,7 +94,7 @@ This is to show that it's extremely difficult to predict the effect of automatin
 
 Automating work will always make the country richer on average. This doesn't mean that everyone will get richer -- automation can increase or decrease inequality. But it's important to know that **technological progress always changes the distribution of wealth**. Even if a new technology is a clear improvement on all fronts, the ones profiting from the existing system will be losers. If we made a perfectly clean and renewable energy source, the people profiting from fossil fuels would be poorer, and the distribution of wealth would change to be more equal.
 
-However, as seen in the [inequality FAQ][21], inequality has increased in the last 30 years. This is at least partly because recent technological progress has served to increase, rather than decrease, inequality.
+However, as seen in the [inequality FAQ][22], inequality has increased in the last 30 years. This is at least partly because recent technological progress has served to increase, rather than decrease, inequality.
 
 **----> SOME PLOT HERE SHOWING INEQUALITY BAD VERY SAD <-----**
 
@@ -142,7 +124,7 @@ It's not clear if the worsening top income inequality is entirely because of tec
 
 *   In the US, healthcare prices far outpaces wage growth. This means higher health insurance premiums. While a worker's total compensation is increasing, the take-home pay is not increasing at the same rate due to the growing share going to health insurance.
 
-However, we could be automating more than is economically optimal [because of the tax treatment of capital investments][22]. This would reduce the wage of the workers because their bargaining power is reduced in the face of cheap money investing in inefficient automation.
+However, we could be automating more than is economically optimal [because of the tax treatment of capital investments][23]. This would reduce the wage of the workers because their bargaining power is reduced in the face of cheap money investing in inefficient automation.
 
 So while
 
@@ -158,17 +140,17 @@ More evidence of this in the Beveridge Curve shift
 
 ### 7) If you're not a college graduate living in a city, automation probably hurt you
 
-The simplest way to make this point is with the following hard-to-read figure from [here][23]
+The simplest way to make this point is with the following hard-to-read figure from [here][24]
 
 ---> figure 9 from here https://economics.mit.edu/files/16724 <---
 
 The way to read this plot is as follows: each of the 3 charts represent a 20 year period with the x axis being the density of the city they work in, and the y axis the proportion of workers in that city with that education level.
 
-What this chart shows is clear: the labor force is **moving to cities** and **increasing in education**. Take these facts and put them in the context of of the rising gap in income between high and low education workers and rising urban housing prices (see previous section). This paints a bleak picture for everyone who isn't college educated and working in a large city: lowering wages and diminishing economic prospects.
+What this chart shows is clear: the labor force is **moving to cities** and **increasing in education**. Take these facts and put them in the context of of the rising gap in income between high and low education workers and rising urban housing prices. This paints a bleak picture for everyone who isn't college educated and working in a large city: lowering wages and diminishing economic prospects.
 
 ### 8) Landlords and Colleges are big winners from the above facts
 
-A lot of [ink has been spilled][24] trying to explain the explosion of healthcare prices in the united states. In both health care, education and urban housing the price has grown at a multiple of average income:
+A lot of [ink has been spilled][25] trying to explain the explosion of healthcare prices in the united states. In both health care, education and urban housing the price has grown at a multiple of average income:
 
 ---> Chart of education, healthcare, and urban housing vs real wages
 
@@ -178,7 +160,7 @@ https://www.apartmentlist.com/rentonomics/rent-growth-since-1960/
 
 <---
 
-The common issue is bargaining power. In the same way that someone can't negotiate with a hospital when his health is on the line, it's increasingly a necessity to both have a college degree and live near a large city to make a good living. As one [economist joked][25]: *"I could just take all my papers and statistical programs and globally replace hospitals with schools, doctors with teachers and patients with students"*.
+The common issue is bargaining power. In the same way that someone can't negotiate with a hospital when his health is on the line, it's increasingly a necessity to both have a college degree and live near a large city to make a good living. As one [economist joked][26]: *"I could just take all my papers and statistical programs and globally replace hospitals with schools, doctors with teachers and patients with students"*.
 
 The price of education is not increasing because education is getting better:
 
@@ -190,49 +172,101 @@ Getting a college degree leads to much higher wages. This means people are ready
 
 The same dynamic applies with housing in large cities. Explanations that get lost in details about college administrative costs and larger home sizes lose the forest for the trees: the administrative costs are a way in which the value of a college degree is being captured, not a fundamental cause.
 
-## TAKEAWAYS: 
+### XXX) Automation and free trade have similar effects on labor
 
-### Don't be concerned about hypothetical future unemployment. Do be concerned about low quality job prospects right now.
+This is a sidenote, but will help organize your thoughts on economic trends. Imagine this scenario: you do menial work in a factory. One day, your boss comes in and tells you one of the following:
 
-We've seen that while automation is the core engine for economic growth in the last 200 years, in the last 30 years automation has also increased inequality. While we shouldn't be concerned about humans becoming economically useless, we should be concerned about large demographics **feeling useless** due to dire job prospects. 
+*   "This factory is being relocated to a country where wages are 1/20ths of yours, you're fired."
 
-This is especially true for rural demographics and those with low education. It's not a coincidence that this is one of the few demographics in the last century whose life expectancy [has worsened](https://www.brookings.edu/wp-content/uploads/2017/08/casetextsp17bpea.pdf): these are so-called "deaths of despair".
+*   "Your job is being replaced by the new *WorkaTron9000*, you're fired."
+
+Which would you prefer?
+
+The answer, of course, is that you don't really care -- you're out of a job either way.
+
+In both the cases of free trade and automation, we replace what was previously done by labor with capital. In the case of trade, we do it by giving the money to people in an other country in exchange for the task being completed. In the automation case, we do it by giving money to people to make machines to complete the task.
+
+In fact, even though automation and trade have similar effects on unemployment, there is a [strong argument][27] that trade has had a much larger impact on employment in the US in the last 20 years. The reason for this is that [trade with China][28] has had a large effect on US manufacturing employment, much [more so than automation][29].
+
+Both trade and automation are fundamental drivers of modern economic growth. Both create more wealth, but also change the distribution of income in society, which can (and generally do) increase inequality. In fact even the [simplest trade models][30] predict that inequality increases -- trade creates winners and losers, but winners always [gain more than losers lose][31]. In theory, we could compensate the ones losing from taxing the winners' increased wealth, but in practice this generally seems lost in the political process. In the words of [Autor, Dorn & Hansen][32]:
+
+> Without question, a worker’s position in the wage distribution is indicative of her exposure to import competition. In response to a given trade shock, a lower-wage employee experiences larger proportionate reductions in annual and lifetime earnings, a diminished ability to exit a job before an adverse shock hits, and a greater likelihood of exiting the labor market, relative to her higher-wage coworker.
+
+### XXX) Rural communities do not recover well to unemployment shocks
+
+[Autor, Dorn & Hansen][32] show that rural communities with an economy vulnerable to trade with China (imagine the stereotypical factory town) have had lower wages and labor force participation a full decade after the "China shock" on their local economy. This paints a bleak picture for the ones living in the affected communities -- while we would expect the losers from a trade deal to eventually find equivalent work in other economic sectors, those in rural communities often don't.
+
+It's important to note the other side of this issue. China entering in trade with the global market is one of the greatest welfare gains in recorded human history. It's hard to overstate the impact: it has lifted hundreds of millions out of poverty. China's poverty rate fell from [88 percent in 1981 to 0.7 percent in 2015][33].
+
+So the larger issue with trade is that in the same event we can lift hundreds of millions of Chinese out of poverty, raise US GDP overall and economically eviscerate some US rural manufacturing towns. Yet, somehow, we don't adequately compensate the latter from any of the of the hundreds of billions of dollars worth of gains in any of the former.
+
+While the "China Shock" is an outstanding event, the overall trend of economic productivity going from rural areas towards urban areas is ongoing, and the rural areas don't seem to adapt well to this change.
+
+## TAKEAWAYS:
+
+The main idea is that automation creates a lot of economic prosperity. However, this prosperity is not shared equally, and some are even worse off.
+
+### Don't be concerned about hypothetical future unemployment.
+
+**Instead, be concerned about low quality job prospects right now.**
+
+We've seen that while automation is the core engine for economic growth in the last 200 years, in the last 30 years automation has also increased inequality. While we shouldn't be concerned about humans becoming economically useless, we should be concerned about large demographics **feeling useless** due to dire job prospects.
+
+The two groups that are doing well are the highly educated urbanites and "the rich" (roughly the top 0.1% or 1% of the wealth distribution). Both of these groups, but especially the ultra-rich, have had great
+
+Rural demographics and for those with low education have had it the worst. It's not a coincidence that rural inhabitants with low education is one of the only demographics in the last century whose life expectancy [has worsened][34]. This increase in mortality is mostly due to "deaths of despair" (suicide, drug overdose, etc. )
+
+Urban dwellers without a college education are also not particularly better off. Their income is not growing particularly fast. On the other hand, urban costs of living,especially housing, but also education and healthcare rising faster than the income growth.
+
+In short, we're worrying about the imaginary issues automation might cause when there are very real economic issues automation right now. Let's focus on those.
+
+### Growing societal divides aren't just a media creation
+
+All the research we've gone over depicts a society dividing between highly educated urbanites and everyone else. This is reflected in increased political divide, since in two party systems, lines between who votes one color and who votes in another are generally drawn over the rural/urban divide:
+
+---> graph
+
+https://upload.wikimedia.org/wikipedia/commons/a/a8/NOMINATE_polarization.jpg
+
+--> /graph
+
+We have to note that "the rural population" has not been a unified block over the decade. Over the decades the rural demographic has gone through self-selection as [almost a third][35] emigrated to cities in the US in the last 50 years. Those who remained in rural areas are necessarily different by being part of the two-thirds who remained in rural areas either economic or cultural reasons.
 
 # Part 2: Solutions
 
+[Furman (2016)][36] proposes the following solutions:
 
+*   Keep investing in AI because the benefits massively outweigh the negatives.
 
-According to [Furman (2016)](https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF) 
+*   Ensure more widely accessible and flexible education for all to prepare for jobs of the future
 
-- Keep investing in AI because the benefits massively outweigh the negatives.
+*   Aid workers in job transitions
 
-- Ensure more widely accessible and flexible education for all to prepare for jobs of the future
+*   Ensure that the benefits of automation are broadly shared
 
-- Aid workers in job transitions
+Anyone who read up to this point should agree with the above.
 
-- Ensure that the benefits of automation are broadly shared
+Here is additional discussion on some popular proposed solutions:
 
-### XXX) Universal Basic Income is not a good answer to automation's problems
+### Universal Basic Income is not a particularly good answer to automation's problems
 
 Universal Basic Income (UBI) isn't necessarily a bad idea.
 
-[Elon Musk][27] and Andrew Yand (Source).
+[Elon Musk][37] and Andrew Yand (Source).
 
-UBI is exactly equivalent to a normal welfare system with taxes coming in and cash-based welfare programs or a [negative income tax bracket][26] coming out. The only real difference in theory is that UBI is simpler to explain and might be simpler on the bureaucracy required.
-
+UBI is exactly equivalent to a normal welfare system with taxes coming in and cash-based welfare programs or a [negative income tax bracket][38] coming out. The only real difference in theory is that UBI is simpler to explain and might be simpler on the bureaucracy required.
 
 ---> Link slate article and Noah Smith article on Andrew Yang and his bad ideas.
 
-
 ### XXX) Fix Education
-
-
 
 ### XXX) Fix urban housing prices
 
 Cities are intrinsic to productive growth in a knowledge economy (cesar hidalgo source???)
 
 LAND VALUE TAX LAND VALUE TAX LAND VALUE TAX
+
+### XXX) Change voting systems
 
 Original FAQ stuff here
 
@@ -265,15 +299,26 @@ Alan Cole tweetstorm (31/01/2019)
  [13]: https://www.cs.cmu.edu/~tom/pubs/AEA2018-WhatCanMachinesLearn.pdf
  [14]: https://en.wikipedia.org/wiki/Lump_of_labour_fallacy
  [15]: https://www.jstor.org/stable/24966681?seq=1
- [16]: https://www.onetonline.org/link/summary/29-1069.10
- [17]: https://en.wikipedia.org/wiki/Elasticity_(economics)
- [18]: https://en.wikipedia.org/wiki/Substitution_effect
- [19]: https://en.wikipedia.org/wiki/Consumer_choice#Income_effect
- [20]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2690435
- [21]: https://www.reddit.com/r/Economics/wiki/faq_inequality
- [22]: https://economics.mit.edu/files/17109
- [23]: https://economics.mit.edu/files/16724
- [24]: https://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/
- [25]: https://www.theatlantic.com/education/archive/2018/09/why-is-college-so-expensive-in-america/569884/
- [26]: https://en.wikipedia.org/wiki/Negative_income_tax
- [27]: https://twitter.com/elonmusk/status/1007762646182047744
+ [16]: https://en.wikipedia.org/wiki/Natural_rate_of_unemployment
+ [17]: https://www.onetonline.org/link/summary/29-1069.10
+ [18]: https://en.wikipedia.org/wiki/Elasticity_(economics)
+ [19]: https://en.wikipedia.org/wiki/Substitution_effect
+ [20]: https://en.wikipedia.org/wiki/Consumer_choice#Income_effect
+ [21]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2690435
+ [22]: https://www.reddit.com/r/Economics/wiki/faq_inequality
+ [23]: https://economics.mit.edu/files/17109
+ [24]: https://economics.mit.edu/files/16724
+ [25]: https://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/
+ [26]: https://www.theatlantic.com/education/archive/2018/09/why-is-college-so-expensive-in-america/569884/
+ [27]: https://slate.com/business/2019/10/andrew-yang-automation-unemployment-freedom-dividend.html
+ [28]: https://www.usitc.gov/research_and_analysis/documents/Pierce%20and%20Schott%20-%20The%20Surprisingly%20Swift%20Decline%20of%20U.S.%20Manufacturing%20Employment_0.pdf
+ [29]: https://research.upjohn.org/cgi/viewcontent.cgi?article=1268&context=empl_research
+ [30]: https://en.wikipedia.org/wiki/Heckscher%E2%80%93Ohlin_model
+ [31]: https://en.wikipedia.org/wiki/Kaldor%E2%80%93Hicks_efficiency
+ [32]: https://www.ddorn.net/papers/Autor-Dorn-Hanson-ChinaShock.pdf
+ [33]: https://data.worldbank.org/indicator/SI.POV.DDAY?locations=CN
+ [34]: https://www.brookings.edu/wp-content/uploads/2017/08/casetextsp17bpea.pdf
+ [35]: https://www.census.gov/prod/cen2010/cph-2-1.pdf
+ [36]: https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF
+ [37]: https://twitter.com/elonmusk/status/1007762646182047744
+ [38]: https://en.wikipedia.org/wiki/Negative_income_tax
