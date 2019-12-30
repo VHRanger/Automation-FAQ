@@ -250,11 +250,13 @@ Here is additional discussion on some popular proposed solutions:
 
 ### Universal Basic Income is not a particularly good answer to automation's problems
 
-Universal Basic Income (UBI) isn't necessarily a bad idea.
+From [Elon Musk][37] to Andrew Yang (Source), many advocate for Universal Basic Income (UBI) to act as a safety net against technological unemployment. 
 
-[Elon Musk][37] and Andrew Yand (Source).
+UBI isn't necessarily a bad idea [footnote] UBI is can be mathematically equivalent to most welfare system with taxes coming in and welfare checks coming out. The advantages of UBI are that it's simpler to understand and might be lighter on bureaucracy. The important part is how much we tax and give out at each level of income. In UBI, we give everyone money unconditionally. If we want to help the poor, then comparing to other systems we need to tax less at lower income brackets, and tax more at higher inome brackets, so that the "gift" is offset by higher taxes. [/fotnote]. But we saw before that the problem with automation isn't technological unemployment, it's low quality job prospects from a shifting economy. 
 
-UBI is exactly equivalent to a normal welfare system with taxes coming in and cash-based welfare programs or a [negative income tax bracket][38] coming out. The only real difference in theory is that UBI is simpler to explain and might be simpler on the bureaucracy required.
+UBI, like any other generous social safety net, would help treat some of the economic symptoms (inequality), but it won't address the root cause (lack of job mobility).
+
+
 
 ---> Link slate article and Noah Smith article on Andrew Yang and his bad ideas.
 
@@ -263,6 +265,8 @@ UBI is exactly equivalent to a normal welfare system with taxes coming in and ca
 ### XXX) Fix urban housing prices
 
 Cities are intrinsic to productive growth in a knowledge economy (cesar hidalgo source???)
+
+job mobility (less migration)
 
 LAND VALUE TAX LAND VALUE TAX LAND VALUE TAX
 
