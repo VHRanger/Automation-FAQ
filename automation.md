@@ -8,17 +8,11 @@ Automation includes almost all technological progress since the first [industria
 
 ### 1) We automate tasks, not jobs
 
-A job is made from of a bundle of tasks. For example, [O*NET][6] defines the job of [post-secondary architecture teacher][7] as made up of 21 tasks including ones like:
-
-*   Advise students on academic and vocational curricula and on career issues
-
-*   Prepare course materials
-
-*   Conduct research in a particular field of knowledge and publish findings
+A job is made from of a bundle of tasks. For example, [O*NET][6] defines the job of [post-secondary architecture teacher][7] as including 21 tasks like advising students, preparing course materials and conducting original research.
 
 Technology automates tasks, not jobs. When you read an alarmist headline like ["Study finds nearly half of jobs are vulnerable to automation"][8], you need to put it in context: nearly half of all jobs **contain tasks ripe for automation**.
 
-Some of an architecture professor's tasks are easier to automate (grading assignments) and others are much harder (advising students, conducting original research). According to [Brynjolfsson and Mitchell][9] tasks "ripe for automation" are tasks that:
+Some of an architecture professor's tasks are easier to automate (grading assignments) and others are harder (advising students). According to [Brynjolfsson and Mitchell][9] tasks "ripe for automation" are tasks that:
 
 *   The task provides clear feedback with clearly definable goals and metrics
 
@@ -28,9 +22,9 @@ Some of an architecture professor's tasks are easier to automate (grading assign
 
 *   No specialized dexterity, physical skills, or mobility required
 
-Some tasks are extremely difficult to automate with machine learning due to [Moravec's paradox][10]. Counterintuitively, it's easier for a computer to learn to beat grandmaster humans at chess or Starcraft than it is to do gardening on a windy afternoon, even though most humans can do the second, but very few can do the first. The paradox is explained when we understand that gardening requires learning sensorimotor skills that mammals have evolved over billions of years, whereas learning Chess only means learning a short ruleset some humans developped when they were bored.
+[Moravec's paradox][10] tells us that some tasks are extremely difficult to automate with computers and machine learning. It's easier for a computer to learn to beat grandmaster humans at chess or Starcraft than it is to do gardening on a windy afternoon. This is true even though most humans can do basic gardening and very few can play high level chess. Moravec's paradox is explained when we understand that gardening requires learning sensorimotor skills that mammals have evolved over billions of years, whereas learning Chess only means learning a short ruleset some humans developped when they were bored.
 
-Other tasks don't require dexterity, but require the sort of cross-task general intelligence that we [simply can't encode][11] into a machine process (with or without machine learning); "Conducting Original Research" is a good example.
+Some other tasks don't require dexterity, but require the sort of cross-task general intelligence that we [simply can't encode][11] into a machine process (with or without machine learning). "Conducting Original Research" is a good example of this.
 
 Lastly, some tasks are simply bad candidates for automation because they're not very repetitive and too context driven for automation to be economic:
 
@@ -128,12 +122,6 @@ David Autor Youtube Talk: https://www.youtube.com/watch?v=th3nnEpITz0
 
 *   Where tech seems to be unable to replicate is in superstar industries
 
-### 6) Automation makes it harder to match your skills to a job
-
-Automation probably hurts workers and might create a skill mismatch (Acemoglu & Restreppo) : https://www.nber.org/papers/w24196.pdf
-
-More evidence of this in the Beveridge Curve shift
-
 ### 7) If you're not a college graduate living in a city, automation probably hurt you
 
 The simplest way to make this point is with the following hard-to-read figure from [here][24]
@@ -172,13 +160,13 @@ I would argue that the hard knowledge being learned in school is [has not change
 
 https://slatestarcodex.com/blog_images/primary_scost.gif
 
-Similarly, it's hard to honestly argue that students meet exponentially more peers in college now than they did in the 1960s.
+Similarly, it's hard to honestly argue that students meet exponentially more peers in college now than they did in the 1960s. 
 
-However, both the wages of those graduating college, and the cost of going to college are growing fast.
+However, both the wages of those graduating college, and the cost of going to college are growing fast. 
 
-All of this leads to one conclusion: *the market value of the signal a college degree provides has massively increased in the last 30 years.*
+All of this leads to one conclusion: *the market value of the signal a college degree provides has massively increased in the last 30 years.* 
 
-It's not clear why the signal is worth more. But it doesn't mean we can't do something about it! We've known about market signalling [since the 1970s][27]. An important insight in the topic is that the cost of the signal is bore by the one emitting the signal. In education terms this implies colleges can charge more and that the student are necessarily the ones footing the bill.
+It's not clear why the signal is worth more. But it doesn't mean we can't do something about it! We've known about market signalling [since the 1970s](https://msu.edu/~conlinmi/teaching/EC860/signallingscreening/SpenceQJE1973.pdf). An important insight in the topic is that the cost of the signal is bore by the one emitting the signal. In education terms this implies colleges can charge more and that the student are necessarily the ones footing the bill. 
 
 ### 10) Automation and free trade have similar effects on labor
 
@@ -194,17 +182,17 @@ The answer, of course, is that you don't really care -- you're out of a job eith
 
 In both the cases of free trade and automation, we replace what was previously done by labor with capital. In the case of trade, we do it by giving the money to people in an other country in exchange for the task being completed. In the automation case, we do it by giving money to people to make machines to complete the task.
 
-In fact, even though automation and trade have similar effects on unemployment, there is a [strong argument][28] that trade has had a much larger impact on employment in the US in the last 20 years. The reason for this is that [trade with China][29] has had a large effect on US manufacturing employment, much [more so than automation][30].
+In fact, even though automation and trade have similar effects on unemployment, there is a [strong argument][27] that trade has had a much larger impact on employment in the US in the last 20 years. The reason for this is that [trade with China][28] has had a large effect on US manufacturing employment, much [more so than automation][29].
 
-Both trade and automation are fundamental drivers of modern economic growth. Both create more wealth, but also change the distribution of income in society, which can (and generally do) increase inequality. In fact even the [simplest trade models][31] predict that inequality increases -- trade creates winners and losers, but winners always [gain more than losers lose][32]. In theory, we could compensate the ones losing from taxing the winners' increased wealth, but in practice this generally seems lost in the political process. In the words of [Autor, Dorn & Hansen][33]:
+Both trade and automation are fundamental drivers of modern economic growth. Both create more wealth, but also change the distribution of income in society, which can (and generally do) increase inequality. In fact even the [simplest trade models][30] predict that inequality increases -- trade creates winners and losers, but winners always [gain more than losers lose][31]. In theory, we could compensate the ones losing from taxing the winners' increased wealth, but in practice this generally seems lost in the political process. In the words of [Autor, Dorn & Hansen][32]:
 
 > Without question, a worker’s position in the wage distribution is indicative of her exposure to import competition. In response to a given trade shock, a lower-wage employee experiences larger proportionate reductions in annual and lifetime earnings, a diminished ability to exit a job before an adverse shock hits, and a greater likelihood of exiting the labor market, relative to her higher-wage coworker.
 
 ### XXX) Rural communities do not recover well to unemployment shocks
 
-[Autor, Dorn & Hansen][33] show that rural communities with an economy vulnerable to trade with China (imagine the stereotypical factory town) have had lower wages and labor force participation a full decade after the "China shock" on their local economy. This paints a bleak picture for the ones living in the affected communities -- while we would expect the losers from a trade deal to eventually find equivalent work in other economic sectors, those in rural communities often don't.
+[Autor, Dorn & Hansen][32] show that rural communities with an economy vulnerable to trade with China (imagine the stereotypical factory town) have had lower wages and labor force participation a full decade after the "China shock" on their local economy. This paints a bleak picture for the ones living in the affected communities -- while we would expect the losers from a trade deal to eventually find equivalent work in other economic sectors, those in rural communities often don't.
 
-It's important to note the other side of this issue. China entering in trade with the global market is one of the greatest welfare gains in recorded human history. It's hard to overstate the impact: it has lifted hundreds of millions out of poverty. China's poverty rate fell from [88 percent in 1981 to 0.7 percent in 2015][34].
+It's important to note the other side of this issue. China entering in trade with the global market is one of the greatest welfare gains in recorded human history. It's hard to overstate the impact: it has lifted hundreds of millions out of poverty. China's poverty rate fell from [88 percent in 1981 to 0.7 percent in 2015][33].
 
 So the larger issue with trade is that in the same event we can lift hundreds of millions of Chinese out of poverty, raise US GDP overall and economically eviscerate some US rural manufacturing towns. Yet, somehow, we don't adequately compensate the latter from any of the of the hundreds of billions of dollars worth of gains in any of the former.
 
@@ -222,7 +210,7 @@ We've seen that while automation is the core engine for economic growth in the l
 
 The two groups that are doing well are the highly educated urbanites and "the rich" (roughly the top 0.1% or 1% of the wealth distribution). Both of these groups, but especially the ultra-rich, have had great
 
-Rural demographics and for those with low education have had it the worst. It's not a coincidence that rural inhabitants with low education is one of the only demographics in the last century whose life expectancy [has worsened][35]. This increase in mortality is mostly due to "deaths of despair" (suicide, drug overdose, etc. )
+Rural demographics and for those with low education have had it the worst. It's not a coincidence that rural inhabitants with low education is one of the only demographics in the last century whose life expectancy [has worsened][34]. This increase in mortality is mostly due to "deaths of despair" (suicide, drug overdose, etc. )
 
 Urban dwellers without a college education are also not particularly better off. Their income is not growing particularly fast. On the other hand, urban costs of living,especially housing, but also education and healthcare rising faster than the income growth.
 
@@ -238,11 +226,11 @@ https://upload.wikimedia.org/wikipedia/commons/a/a8/NOMINATE_polarization.jpg
 
 --> /graph
 
-We have to note that "the rural population" has not been a unified block over the decade. Over the decades the rural demographic has gone through self-selection as [almost a third][36] emigrated to cities in the US in the last 50 years. Those who remained in rural areas are necessarily different by being part of the two-thirds who remained in rural areas either economic or cultural reasons.
+We have to note that "the rural population" has not been a unified block over the decade. Over the decades the rural demographic has gone through self-selection as [almost a third][35] emigrated to cities in the US in the last 50 years. Those who remained in rural areas are necessarily different by being part of the two-thirds who remained in rural areas either economic or cultural reasons.
 
 # Part 2: Solutions
 
-[Furman (2016)][37] proposes the following solutions:
+[Furman (2016)][36] proposes the following solutions:
 
 *   Keep investing in AI because the benefits massively outweigh the negatives.
 
@@ -258,9 +246,9 @@ Here is additional discussion on some popular proposed solutions:
 
 ### Universal Basic Income is not a particularly good answer to automation's problems
 
-From [Elon Musk][38] to Andrew Yang (Source), many advocate for Universal Basic Income (UBI) to act as a safety net against technological unemployment.
+From [Elon Musk][37] to Andrew Yang (Source), many advocate for Universal Basic Income (UBI) to act as a safety net against technological unemployment. 
 
-UBI isn't necessarily a bad idea [footnote] UBI is can be mathematically equivalent to most welfare system with taxes coming in and welfare checks coming out. The advantages of UBI are that it's simpler to understand and might be lighter on bureaucracy. The important part is how much we tax and give out at each level of income. In UBI, we give everyone money unconditionally. If we want to help the poor, then comparing to other systems we need to tax less at lower income brackets, and tax more at higher inome brackets, so that the "gift" is offset by higher taxes. [/fotnote]. But we saw before that the problem with automation isn't technological unemployment, it's low quality job prospects from a shifting economy.
+UBI isn't necessarily a bad idea [footnote] UBI is can be mathematically equivalent to most welfare system with taxes coming in and welfare checks coming out. The advantages of UBI are that it's simpler to understand and might be lighter on bureaucracy. The important part is how much we tax and give out at each level of income. In UBI, we give everyone money unconditionally. If we want to help the poor, then comparing to other systems we need to tax less at lower income brackets, and tax more at higher inome brackets, so that the "gift" is offset by higher taxes. [/fotnote]. But we saw before that the problem with automation isn't technological unemployment, it's low quality job prospects from a shifting economy. 
 
 UBI, like any other generous social safety net, would help treat some of the economic symptoms (inequality), but it won't address the root cause (lack of job mobility).
 
@@ -270,7 +258,7 @@ We saw in sections 8 and 9 that the bargaining power of colleges against student
 
 https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRmpgwAhQoLw/v1/-1x-1.png
 
-This leads [some][39] to argue that student loan debt should be forgiven altogether.
+This leads [some](https://www.newyorker.com/business/currency/a-robin-hood-for-the-debt-crisis) to argue that student loan debt should be forgiven altogether. 
 
 The "student debt jubilee" is a bad idea. It doesn't fix the dynamics that caused the debt crisis -- it instead shifts the cost burden from students to tax payers. In the long run, this would lead to *even higher tuitions*, because the students are not paying the price, and the colleges hold an implacable bargaining position.
 
@@ -282,21 +270,22 @@ https://media.salon.com/2017/09/screen_shot_2017-09-16_at_9.15.03_pm_0.png
 
 We saw that cities seem to be intrinsic to economic growth. Over time, a larger share of the total population has been living in cities.
 
-Because the demand to live in cities is increasing, if we want to keep costs reasonable, we need to increase the supply of housing to match the increase.
+Because the demand to live in cities is increasing, if we want to keep costs reasonable, we need to increase the supply of housing to match the increase. 
 
-One way NOT to curb the urban housing crisis is [rent control][40] (eg. putting a ceiling on rent prices). Rent control [has been shown][41] to actually worsen the problem over time.
+One way NOT to curb the urban housing crisis is [rent control](https://www.nytimes.com/2000/06/07/opinion/reckonings-a-rent-affair.html) (eg. putting a ceiling on rent prices). Rent control [has been shown](https://web.stanford.edu/~diamondr/DMQ.pdf) to actually worsen the problem over time.
 
-Instead, two better ways to curb housing costs are:
+Instead, two better ways to curb housing costs are:  
 
-*   Liberalize zoning regulations. Current regulations prevent housing construction in metropolitan areas like NYC and San Francisco. This prevent housing supply to match the increasing demand.
+- Liberalize zoning regulations. Current regulations prevent housing construction in metropolitan areas like NYC and San Francisco. This prevent housing supply to match the increasing demand.
 
-*   A [tax on the value of land][42]. While we can build more housing in metropolitan areas, physics prevent us from adding more land. Taxing those who own socially valuable metropolitan land based on the value they are extracting from it redistributes this and helps reduce wealth inequality.
+- A [tax on the value of land](https://en.wikipedia.org/wiki/Land_value_tax). While we can build more housing in metropolitan areas, physics prevent us from adding more land. Taxing those who own socially valuable metropolitan land based on the value they are extracting from it redistributes this and helps reduce wealth inequality. 
 
 It might seem strange that two seemingly similar problems (housing and college tuition costs) have one whose solution is more government intervention and the other more market liberalization. But the underlying economic dynamics that define how the problems are different, so there can't be a "one size fits all" answer here.
 
 ### Conclusion
 
 The economic trends that defined the 2010s, like pessimistic job prospects or housing and college tuition costs, can be explained by how the nature of work has changed in the last 30 or so years.
+
 
 * * *
 
@@ -328,19 +317,15 @@ AEAweb 2018 conference
  [24]: https://economics.mit.edu/files/16724
  [25]: https://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/
  [26]: https://www.theatlantic.com/education/archive/2018/09/why-is-college-so-expensive-in-america/569884/
- [27]: https://msu.edu/~conlinmi/teaching/EC860/signallingscreening/SpenceQJE1973.pdf
- [28]: https://slate.com/business/2019/10/andrew-yang-automation-unemployment-freedom-dividend.html
- [29]: https://www.usitc.gov/research_and_analysis/documents/Pierce%20and%20Schott%20-%20The%20Surprisingly%20Swift%20Decline%20of%20U.S.%20Manufacturing%20Employment_0.pdf
- [30]: https://research.upjohn.org/cgi/viewcontent.cgi?article=1268&context=empl_research
- [31]: https://en.wikipedia.org/wiki/Heckscher%E2%80%93Ohlin_model
- [32]: https://en.wikipedia.org/wiki/Kaldor%E2%80%93Hicks_efficiency
- [33]: https://www.ddorn.net/papers/Autor-Dorn-Hanson-ChinaShock.pdf
- [34]: https://data.worldbank.org/indicator/SI.POV.DDAY?locations=CN
- [35]: https://www.brookings.edu/wp-content/uploads/2017/08/casetextsp17bpea.pdf
- [36]: https://www.census.gov/prod/cen2010/cph-2-1.pdf
- [37]: https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF
- [38]: https://twitter.com/elonmusk/status/1007762646182047744
- [39]: https://www.newyorker.com/business/currency/a-robin-hood-for-the-debt-crisis
- [40]: https://www.nytimes.com/2000/06/07/opinion/reckonings-a-rent-affair.html
- [41]: https://web.stanford.edu/~diamondr/DMQ.pdf
- [42]: https://en.wikipedia.org/wiki/Land_value_tax
+ [27]: https://slate.com/business/2019/10/andrew-yang-automation-unemployment-freedom-dividend.html
+ [28]: https://www.usitc.gov/research_and_analysis/documents/Pierce%20and%20Schott%20-%20The%20Surprisingly%20Swift%20Decline%20of%20U.S.%20Manufacturing%20Employment_0.pdf
+ [29]: https://research.upjohn.org/cgi/viewcontent.cgi?article=1268&context=empl_research
+ [30]: https://en.wikipedia.org/wiki/Heckscher%E2%80%93Ohlin_model
+ [31]: https://en.wikipedia.org/wiki/Kaldor%E2%80%93Hicks_efficiency
+ [32]: https://www.ddorn.net/papers/Autor-Dorn-Hanson-ChinaShock.pdf
+ [33]: https://data.worldbank.org/indicator/SI.POV.DDAY?locations=CN
+ [34]: https://www.brookings.edu/wp-content/uploads/2017/08/casetextsp17bpea.pdf
+ [35]: https://www.census.gov/prod/cen2010/cph-2-1.pdf
+ [36]: https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF
+ [37]: https://twitter.com/elonmusk/status/1007762646182047744
+ [38]: https://en.wikipedia.org/wiki/Negative_income_tax
