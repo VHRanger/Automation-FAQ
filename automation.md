@@ -96,7 +96,9 @@ https://gabriel-zucman.eu/files/SaezZucman2014.pdf
 
 **----> / SOME PLOT HERE SHOWING INEQUALITY BAD VERY SAD <-----**
 
-There are 3 demographics between which inequality is increasing due to technology: capital owners, high-education workers and low-education workers. We can separate these trends between intra-worker inequality (the gap in income between high versus low education workers) and top income earner inequality (often called the "99% versus the 1%").
+To understand what's going on, let's simplify the population to 3 socioeconomic classes: capital owners, high-education workers and low-education workers. The inequality between each of these is increasing. 
+
+The main trends are intra-worker inequality (the gap in income between high versus low education workers) and top income earner inequality (the inequality between capital owners and everyone else, often called the "1% vs the 99%").
 
 First, the inequality between low-income and high-income workers is increasing:
 
@@ -200,6 +202,9 @@ So the larger issue with trade is that in the same event we can lift hundreds of
 
 While the "China Shock" is an outstanding event, the overall trend of economic productivity going from rural areas towards urban areas is ongoing, and the rural areas don't seem to adapt well to this change.
 
+
+----------------------------------------------------------
+
 ## TAKEAWAYS:
 
 The main idea is that automation creates a lot of economic prosperity. However, this prosperity is not shared equally, and some are even worse off.
@@ -229,6 +234,9 @@ https://upload.wikimedia.org/wikipedia/commons/a/a8/NOMINATE_polarization.jpg
 --> /graph
 
 We have to note that "the rural population" has not been a unified block over the decade. Over the decades the rural demographic has gone through self-selection as [almost a third][35] emigrated to cities in the US in the last 50 years. Those who remained in rural areas are necessarily different by being part of the two-thirds who remained in rural areas either economic or cultural reasons.
+
+
+----------------------------------------------------------
 
 # Part 2: Solutions
 
@@ -288,10 +296,6 @@ It might seem strange that two seemingly similar problems (housing and college t
 
 The economic trends that defined the 2010s, like pessimistic job prospects or housing and college tuition costs, can be explained by how the nature of work has changed in the last 30 or so years.
 
-
-* * *
-
-AEAweb 2018 conference
 
  [1]: https://www.c-span.org/video/?431119-6/elon-musk-addresses-nga&start=1493
  [2]: https://www.nytimes.com/2018/02/10/technology/his-2020-campaign-message-the-robots-are-coming.html?module=inline
