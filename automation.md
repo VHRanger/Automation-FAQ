@@ -34,13 +34,15 @@ https://xkcd.com/1319/
 
 **----> /XKCD PLOT <-----**
 
-Automating a task within a job doesn't mean the job will stop existing. It's impossible to predict the effects -- the number of people employed and the wage of those workers can both go up or down depending on economic factors we'll discuss in section **XXX**.
+Automating a task within a job doesn't mean the job will stop existing. It's impossible to predict the effects -- the number of people employed and the wage of those workers can both go up or down depending on economic factors we'll see in the following sections.
 
-### 3) Humans are not horses
+### 2) Humans are not horses
 
-CGP Grey's [Humans Need Not Apply][12] makes a famous argument: humans today are in the same position horses were in the 1910s. That is, humans are about to be entirely redundant and replaced by machines which can do everything a human can, but more efficiently.
+CGP Grey's [Humans Need Not Apply][12] makes a famous argument: humans today are in the same position horses were in the 1910s. He says that humans will soon be entirely redundant and replaced by machines which can do everything a human can, but more efficiently.
 
-This argument is wrong and uninformed. Horses have only ever served very few economic tasks: transporting heavy loads, transporting humans faster than foot travel, and recreational uses. With the invention of the combustion engine, two of those three tasks are automated, and horses became almost exclusively a recreational object. This means horses populations decreased over time, because they were no longer needed for labor (the human equivalent to that depopulation would be mass, long term unemployment).
+This argument is wrong and uninformed. 
+
+Horses have only ever served very few economic tasks: transporting heavy loads, transporting humans faster than foot travel, and recreational uses. With the invention of the combustion engine, two of those three tasks are automated, and horses became almost exclusively a recreational object. This means horses populations decreased over time, because they were no longer needed for labor (the human equivalent to that depopulation would be mass, long term unemployment).
 
 Humans can do lots of tasks ([O*NET][6] lists around 20,000). Even though most jobs contain some tasks that can be automated, [most tasks themselves are not suitable for automation][13], with machine learning or otherwise.
 
@@ -58,13 +60,13 @@ Automating a task does not mean there is "one fewer" task to be done in the econ
 
 A classic example showing why this is wrong is the industrial revolution. Before the invention of the steam engine more than [95% of humans were employed on farms][15], whereas today this number is around 2%. The remaining 93% of the population didn't go out of a job -- automating this work freed up the labor force to be put to more productive use over time. Some went to school instead of working on the family farm, some started working in factories, etc. Over time, the labor force reallocated away from agriculture.
 
-**Sidenote:** The keen reader at this point will ask: *"if there's an infinite amount of work to be done in the economy, how is there any unemployment at all?"* The main reason is that it takes some time to find a job. If everyone who wants work either has a job or is looking for work, the economy is said to be at the [natural rate of unemployment][16]. Unemployment rates above that "natural" number are consided to be "a bad thing".
+**Sidenote:** The keen reader at this point will ask: *"if there's an infinite amount of work to be done in the economy, how is there any unemployment at all?"* The answer is that it takes some time to find a job. If everyone who wants work either has a job or is looking for work, the economy is said to be at the [natural rate of unemployment][16]. Unemployment rates above that "natural" number are consided to be a sign the country's economy is in a depression or unhealthy in some other manner.
 
 ### 4) Automation can help or hurt depending on who you are
 
-If technology automates some important task in your job, the effect will be different different depending on your economic status. The main factors are what job you do, where you are geographically, what your education level is, your level of wealth and your social connections.
+If technology automates some important task in your job, the effect will differ depending on what job you do, where you are geographically, what your education level is, your level of wealth and your social connections.
 
-It's almost impossible to know a priori what the effect will be. Let's take the example of a radiologist, where a core task of the job (making diagnoses based on X-Ray images) is [soon automated](). What won't happen is "radiologists don't exist anymore" -- they have [28 other tasks to work on][17] which aren't automated. That said, several scenarios can play out:
+It's almost impossible to know a priori what the effect will be. Let's take the example of a radiologist, where a core task of the job (making diagnoses based on X-Ray images) could be automated in the future. What won't happen is "radiologists don't exist anymore" -- they have [28 other tasks to work on][17] which aren't automated. That said, several scenarios can play out:
 
 *   A radiologist now sees many additional clients, because their workload per client is reduced. Existing radiologists make more money.
 
@@ -78,11 +80,11 @@ Here is another example. When ATMs were introduced to banks, people thought bank
 
 --> graph of ATM vs bank tellers here https://voxeu.org/sites/default/files/image/FromMay2014/bessenfig1.png <----
 
-This is to show that it's extremely difficult to predict the effect of automating a task on the workers who do that task a priori. Because automation is a wide-ranging force in the economy, the most effective way to learn which scenarios play out is to instead study the trends in the labor force. This is what we'll do in the next few sections.
+This shows that it's extremely difficult to predict the effect of automating a task on the workers who do that task.
 
 ### 5) Automation seems to increase inequality
 
-Automating work will always make the country richer on average. This doesn't mean that everyone will get richer -- automation can increase or decrease inequality. But it's important to know that **technological progress always changes the distribution of wealth**. Even if a new technology is a clear improvement on all fronts, the ones profiting from the existing system will be losers. If we made a perfectly clean and renewable energy source, the people profiting from fossil fuels would be poorer, and the distribution of wealth would change to be more equal.
+Automating work will always make the country richer on average. This doesn't mean that everyone will get richer -- automation can increase or decrease economic inequality. But it's important to know that **technological progress both increases wealth and changes the distribution of wealth**. For example, if we found a perfect clean and renewable energy source, the people profiting from fossil fuels would be poorer, and the distribution of wealth would change to be more equal.
 
 However, as seen in the [inequality FAQ][22], inequality has increased in the last 30 years. This is at least partly because recent technological progress has served to increase, rather than decrease, inequality.
 
