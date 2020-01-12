@@ -2,7 +2,12 @@ One trend in the last decade has been increasing fears of AI and other machines 
 
 Job automation underpins the explosion of economic growth we've seen since the 1830's [industrial revolution][4]. It's almost impossible to study any economic trend it creates in isolation, because the entire [labor market][5] has been tied to job automation for 200 years. Be skeptical of anyone selling a simple "grand unified theory" of automation's effect on unemployment. That person is either a crank or trying to sell you something.
 
+> Oh that's good to know
+
 This article will separate job automation facts from myths. There are large scale problems on the horizon, but they are probably not what you think they are. I'll also propose some solutions you should support to improve the future labor market.
+
+> Hum ok I'm interested, this seems like I could use that next time I talk with my collegue and could appear smart.
+> Good general feeling
 
 # Part 1: The Facts
 
@@ -14,7 +19,11 @@ Technology automates tasks, not jobs. Automating a task within a job doesn't nec
 
 When you read an alarmist headline like ["Study finds nearly half of jobs are vulnerable to automation"][8], you need to put it in context: nearly half of all jobs **contain tasks ripe for automation**. Those jobs may or may not be at risk.
 
+> Mon esprit de contradiction kick in, je me dis que ça veut juste dire que le problème va mettre du temps mais qu'éventuellement tout le job sera automatisé.
+
 For example, some of an architecture professor's tasks are easier to automate (grading assignments) and others are harder (advising students). According to [Brynjolfsson and Mitchell][9] tasks "ripe for automation" are tasks where:
+
+> Hum j'avoue que le 'advise' a student est fair, ça parait difficile à automatiser vraiment bien.
 
 *   The task provides clear feedback with clearly definable goals and metrics
 
@@ -24,15 +33,27 @@ For example, some of an architecture professor's tasks are easier to automate (g
 
 *   No long chains of logic or reasoning that depend on diverse background knowledge or common sense
 
+> _hard *to* automate ?_ below. Didn't know about Moravec stuff!
+
 Some task are inherently hard automate. [Moravec's paradox][10] says that it's easier for a computer to learn to beat the best humans at chess or Starcraft than it is to do basic gardening on a windy afternoon. This is true even though almost all humans can do basic gardening and only a few can play chess at the highest levels.
+
+> I feel happy and see a world were people do this like gardening and creating instead of 'thinking' jobs that kind of take people from reality (very personnal)
 
 The paradox is explained when we understand that gardening requires learning sensorimotor skills that mammals have evolved over billions of years, whereas learning Chess only means learning a short ruleset some humans developped when they were bored. This is true whether we're programming the computer manually or using the latest [deep learning][11] methods.
 
+> "This is true" redondance, exacerbé par la même forme entre les deux dernier paragraphes. Ca feel un peu weird, c'est peut-être mon background en mathématiques qui lance la sonnette d'alarme tho, mais j'ai l'impression que ça cache des raccourcis dangereux, même si c'est tout à fait logique.
+
 Some other tasks don't require dexterity, but require the sort of cross-task general intelligence that we [simply can't encode][12] into a machine process (with or without machine learning). "Conducting Original Research" is a good example of this.
+
+> Still in a contradictory mood, thinking this is the end of the world, but the feeling is going down. "Conducting Original Research" est quelque chose que je me n'aurait pas de peine à faire si le reste de ma job est automatique.
 
 Lastly, some tasks are simply bad candidates for automation because they're not very repetitive or too context driven for automation to be economic, as shown in [this XKCD comic:][13]
 
 <img src="https://www.singlelunch.com/wp-content/uploads/2019/10/automation_2x-296x300.png" alt="" width="394" height="400" class="alignnone size-medium wp-image-879" />
+
+> LOL
+
+> Je comprends le côté 'task not job', c'est un bon moyen de commencer à faire en faire en sorte que le reader agree avec toi. Je suis toujours en contradiction un peu (pas convaincu) mais je me dis que ce sera peut-être pour plus tard.
 
 ### 2) Humans are not horses
 
@@ -42,19 +63,38 @@ This argument is wrong and uninformed.
 
 Horses have only ever served very few economic tasks: transporting heavy loads, transporting humans faster than foot travel, and recreational uses. With the invention of the combustion engine, two of those three tasks are automated, and horses became almost exclusively a recreational object. This means horses populations decreased over time, because they were no longer needed for labor (the human equivalent to the horse depopulation would be mass, long term unemployment).
 
-Humans can do lots of tasks ([O*NET][6] lists around 20,000). Even though most jobs contain some tasks that can be automated, [most tasks themselves are not suitable for automation][15], whether it's with machine learning or any other method.
+> I read this paragraph especially quickly I like the parallel. And I feel more important than a horse wtf.
+
+Humans can do lots of tasks ([O\*NET][6] lists around 20,000). Even though most jobs contain some tasks that can be automated, [most tasks themselves are not suitable for automation][15], whether it's with machine learning or any other method.
+
+> Ca me semble être un paragraphe important, genre la pierre de voute du l'argument. Si je devais aller lire un papier ce serait celui-là (tu m'as même peut-être converti on va voir)
 
 It's also important to realize that automating a task means broader economic changes. It can change what jobs exist, by redefining which tasks are worth bundling together. It will also create entirely new tasks (eg. managing the new automated processes).
 
 <img src="https://www.singlelunch.com/wp-content/uploads/2019/10/automation-before-after-1024x653.png" alt="" width="660" height="421" class="alignnone size-large wp-image-897" />
 
+> là je suis pas convaincu de grand chose, je me dit que la situation où les 2 taches qui s'automatise sont la 1 et la 3 (supprimant Job 1) pourrait tout autant arriver. Mais je suis d'accord avec la nouvelle tache
+
 Automating a task does not mean there is "one fewer" task to be done in the economy. This line of thinking is called the [lump of labor fallacy][16]. Any argument whose logic assumes there's a finite amount of work in the economy is fallacious and wrong.
+
+> Ici je me dis que ça va peut-être créer de nouveaux job mais qu'on va en perdre d'autre quand même. Et j'ai l'impression d'en être 'persuadé'
+> C'est déjà mieux que de se dire que ça va juste détruire des jobs tho
+> Impression que beaucoup de jobs vont être détruit quand même, que ça va rendre les humains qui en ont un capable d'en faire plus (Hum mais c'est là que le lump of labor fallacy devient intéressant ok j'écoute)
 
 The industrial revolution itself shows why the lump of labor fallacy is wrong.
 
+> Ok je suis particulièrement investi et trouve le sujet intéressant là! Impression d'apprendre des trucs cools. J'aime bien le parallèle avec un évènement passé, ça rend le problème compréhensible et prédictible d'une certaine façon (mon introspection me dit danger tho, je vais faire particulièrement attention à ce parallèle maintenant).
+
+
 Before the invention of the steam engine, more than [95% of humans were employed on farms][17], whereas today this number is around 2%. The remaining 93% of the population didn't disappear or go out of a job. Instead, automating farm work freed up the labor force to be put to more productive use over time. Some young laborers went to school instead of working on the family farm, while others started working in factories. Over time, the labor force reallocated away from agriculture.
 
+> Bon maintenant j'ai hâte que les jobs soient automatisés par curiosité de voir ce qui va se passer, j'espère tu vas me dire.
+
 **Sidenote:** The keen reader at this point will ask: *"if there's an infinite amount of work to be done in the economy, how is there any unemployment at all?"* The answer is that it takes some time to find a job. If everyone who wants work either has a job or is looking for work, the economy is said to be at the [natural rate of unemployment][18]. Unemployment rates above that number are consided to be a sign the country's economy is in a depression or unhealthy in some other manner.
+
+> Je suis pas un keen reader mais je suis content de savoir ça!
+
+> Je pense tu as fait ton point, genre on s'adapte et si une partie des jobs s'en vont, ça fait qu'ouvrir d'autre porte. J'imagine que la prochaine serait plus humaine, les gens vont peut-être aller vers l'aide aux personnes comme c'est plus difficile à automatiser.
 
 ### 3) Automation can help or hurt depending on who you are
 
@@ -70,21 +110,32 @@ It's almost impossible to know a priori what the outcome will be. Let's take the
 
 As we see, in the same case, our radiologist can end up making more money, less money and keep his job, or lose his job entirely. Which scenario plays out depends on economic factors like the [elasticity of supply/demand][20], the [substitution effect][21], the [income effect][22].
 
+> Hummm ok je vois. Même si certaines taches sont automatisé on est pas forcément dans le cas 2 ou 3 que je trouvais logique !
+
 Here is another example. When ATMs were introduced to banks in the 1980s, people thought bank tellers would quickly stop existing. Over time, each bank branch did end up employing fewer tellers. However, ATMs made it cheaper to operate bank branches, so more bank branches opened and there were eventually [more bank teller jobs over all][23]:
 
 <img src="https://www.singlelunch.com/wp-content/uploads/2019/10/bessenfig1.png" alt="" width="805" height="545" class="alignnone size-full wp-image-887" />
 
 This shows that it's extremely difficult to predict the effect of automating a task on the workers who do that task.
 
+> Nice example.
+
 ### 4) Automation seems to increase inequality
 
 Automating work makes the country richer on average in the long run. This doesn't mean that everyone will get richer -- automation can increase or decrease economic inequality. But it's important to note that **technological progress both increases wealth and changes the distribution of wealth**.
 
+> increase et decrease parce qu'on sait pas right ? Ou bien il y a des exemple des deux ? (prior (1,1) ou (0,0) ? :p)
+
 If a task gets automated, something is being made for cheaper than it used to. This can translate into lower prices, which shares the gains and lowers inequality. Automation can also translate into equivalent prices and higher profit margins, which increases inequality. Which scenario happens depends mainly on market concentration (AKA the companies' monopoly power).
+
+> Ok c'est plus clair !
 
 Depressingly, inequality [has increased in the last 30 years.][24] This is at least partly because recent technological progress has served to increase, rather than decrease, inequality.
 
+> :(
+
 <img src="https://www.singlelunch.com/wp-content/uploads/2019/10/saezzuckman.png" alt="" width="877" height="548" class="alignnone size-full wp-image-899" />
+
 
 To understand what's going on, let's simplify the population to 3 socioeconomic classes: capital owners, high-education workers and low-education workers. The inequality between each of these is increasing.
 
@@ -93,6 +144,8 @@ The main trends are intra-worker inequality (the gap in income between high vers
 First, the inequality between low-income and high-income workers [is increasing][25]:
 
 <img src="https://www.singlelunch.com/wp-content/uploads/2019/10/worker-inequality.png" alt="" width="825" height="528" class="alignnone size-full wp-image-902" />
+
+> Je comprends pas le graph ici, mais il me manque peut-être un economic backgraound que tes auditeurs auront.
 
 Note the widening income gap between different groups of education. Also note this data shows high school dropout males haven't increased their wages compared to 1963.
 
@@ -109,6 +162,11 @@ It's not clear if the worsening top income inequality is entirely because of tec
 *   In most large cities, the cost of housing is outpacing the rate of wage growth. While a worker could have the same pay, the inequality between owners and non-owners will increase, and the share of income dedicated to housing will increasing (leaving disposable income lower).
 
 *   In the US, healthcare prices far outpaces wage growth. This means higher health insurance premiums. While a worker's total compensation is increasing, the take-home pay is not increasing at the same rate due to the growing share going to health insurance.
+
+> Pour la différence entre 1 vs 99 peut-être que tu trouveras des infos ici: https://www.epsilontheory.com/
+> C'est à prendre avec des pincettes mais très intéressant, ils y parlent de certaines tendances, strategy au niveau manageriales pour faire des sous. Ils offrent des narratives pour investisseurs afin d'avoir l'overview de certains topic.
+
+> Mais j'ai perdu le fil ici, ça m'intéresse un peu moins perso et me semble sortir du sujet. Encore une fois, ça pourrait plaire à une audience plus eco.
 
 We could also be automating more than is economically optimal [because of the tax treatment of capital investments][28]. This would reduce the wage of the workers because their bargaining power is reduced in the face of cheap money investing in inefficient automation.
 
@@ -140,9 +198,13 @@ The same dynamic applies with housing in large cities. The demand for metro-area
 
 Explanations that get lost in details about college administrative costs or larger home sizes lose the forest for the trees. The administrative costs and larger homes are a way in which the value of a college degree is being captured, not a fundamental cause.
 
+> J'ai pas compris ce paragraphe
+
 ### 7) The market value of a college diploma has massively increased
 
 A college diploma provides 3 main benefits: hard knowledge, social connections, and a market signal (proof that you can complete a university degree). The economic value of the diploma is going to be a ratio of those 3 factors depending on the exact diploma [footnote] For instance, an engineering degree might provide lots of hard knowledge, little connections and a decent market signal from being officially a professional engineer. On the other hand, a MBA might mostly provide social connections [/footnote].
+
+> below: _in school is has not changed_
 
 It's arguable that the hard knowledge being learned in school is has not changed in the last few decades. Standardized test scores aren't a perfect measure, but they suggest we're not learning much more than we used to:
 
@@ -153,6 +215,8 @@ School curricula have not changed at a pace that can justify the increase in pri
 However, both the wages of those graduating college, and the cost of going to college are growing fast.
 
 This leads to one conclusion: *the market value of the signal a college degree provides has massively increased in the last 30 years.*
+
+> Intéressant ! Et footnote importante en haut en effet comme cette implication dépend fortement de l'inexistance d'autres bénéfices.
 
 It's not clear why the signal is worth more. But it doesn't mean we can't do something about it! We've known about market signalling [since the 1970s][31]. An important insight in the topic is that the cost of the signal is bore by the one emitting the signal. In education terms this implies colleges can charge more and that the student are necessarily the ones footing the bill.
 
