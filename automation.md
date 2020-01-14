@@ -124,23 +124,7 @@ What this chart shows is clear: the labor force is **moving to cities** and **in
 
 This paints a bleak picture for everyone who isn't college educated and working in a large city: lowering wages and diminishing economic prospects.
 
-### 6) Landlords and Colleges are big winners from the above facts
-
-A lot of [ink has been spilled][29] trying to explain the explosion of healthcare prices in the united states. In both health care, education and urban housing the price has grown at a multiple of average income:
-
-<img src="https://www.singlelunch.com/wp-content/uploads/2019/10/How_Have_Rents_Changed_Since_1960__rej5gh.jpg" alt="" width="1600" height="500" class="alignnone size-full wp-image-905" />
-
-The common issue is bargaining power. You can't negotiate with a hospital when your health is on the line.
-
-Similarly, it's increasingly a necessity to both have a college degree and live near a large city to make a good living. As one [economist jokes][30]: *"I can take all my papers globally replace hospitals with schools, doctors with teachers and patients with students"*. The same is true with urban housing, landlords and renters.
-
-Getting a college degree leads to much higher wages. This means people are ready to pay more for a college degree. Colleges see the value of their product sold increase. Colleges increase prices to match the new value and pocket the difference.
-
-The same dynamic applies with housing in large cities. The demand for metro-area housing is increasing sharply, and the supply is not growing much, due to zoning regulations and other NIMBY politics. Over time, those who own existing urban residences will profit at the expense of all others.
-
-Explanations that get lost in details about college administrative costs or larger home sizes lose the forest for the trees. The administrative costs and larger homes are a way in which the value of a college degree is being captured, not a fundamental cause.
-
-### 7) The market value of a college diploma has massively increased
+### 6) The market value of a college diploma has massively increased
 
 A college diploma provides 3 main benefits: hard knowledge, social connections, and a market signal (proof that you can complete a university degree). The economic value of the diploma is going to be a ratio of those 3 factors depending on the exact diploma [footnote] For instance, an engineering degree might provide lots of hard knowledge, little connections and a decent market signal from being officially a professional engineer. On the other hand, a MBA might mostly provide social connections [/footnote].
 
@@ -148,13 +132,21 @@ It's arguable that the hard knowledge being learned in school is has not changed
 
 <img src="https://www.singlelunch.com/wp-content/uploads/2019/10/Capture.png" alt="" width="618" height="513" class="alignnone size-full wp-image-910" />
 
-School curricula have not changed at a pace that can justify the increase in price. Similarly, it's hard to honestly argue that students meet exponentially more peers in college now than they did in the 1960s. So hard knowledge and social connections have a hard time explaining increasing college costs.
+School curricula have certainly not changed at a pace that can justify the increase in price. Similarly, it's hard to honestly argue that students meet exponentially more peers in college now than they did in the 1960s. So hard knowledge and social connections have a hard time explaining increasing college costs.
 
 However, both the wages of those graduating college, and the cost of going to college are growing fast.
 
 This leads to one conclusion: *the market value of the signal a college degree provides has massively increased in the last 30 years.*
 
-It's not clear why the signal is worth more. But it doesn't mean we can't do something about it! We've known about market signalling [since the 1970s][31]. An important insight in the topic is that the cost of the signal is bore by the one emitting the signal. In education terms this implies colleges can charge more and that the student are necessarily the ones footing the bill.
+It's not clear why the signal is worth more. But it doesn't mean we can't do something about it! We've known about market signalling [since the 1970s][29]. An important insight in the topic is that the cost of the signal is bore by the one emitting the signal. In education terms this implies colleges can charge more and that the student are necessarily the ones footing the bill.
+
+### 7) Landlords and Colleges are big winners from the above facts
+
+We just saw it's increasingly a necessity to both have a college degree and live near a large city to make a good living.
+
+A similar dynamic applies with housing in large cities as with college degrees. The demand for metro-area housing is increasing sharply, and the supply is not growing much, due to zoning regulations and other NIMBY politics. Over time, those who own existing urban residences will profit at the expense of all others.
+
+Explanations that get lost in details about college administrative costs or larger home sizes lose the forest for the trees. The administrative costs and larger homes are a way in which the value of a college degree is being captured, not a fundamental cause.
 
 ### 8) Automation and free trade have similar effects on labor
 
@@ -162,11 +154,11 @@ This is a sidenote, but will help organize your thoughts on economic trends.
 
 In both the cases of free trade and automation, we replace what was previously done by labor with capital. For trade, we do it by giving the money to people in an other country in exchange for the task being completed. For automation, we do it by giving money to people to make machines to complete the task.
 
-There is a [strong argument][32] that trade has had a much larger impact on employment in the US in the last 20 years. The reason for this is that [trade with China][33] has had a large effect on US manufacturing employment, much [more so than automation][34].
+There is a [strong argument][30] that trade has had a much larger impact on employment in the US in the last 20 years. The reason for this is that [trade with China][31] has had a large effect on US manufacturing employment, much [more so than automation][32].
 
-Both trade and automation are fundamental drivers of modern economic growth. Both create more wealth, but also change the distribution of income in society, which often increase inequality. Even the [simplest trade models][35] predict that inequality increases -- trade creates winners and losers, but winners always [gain more than losers lose][36].
+Both trade and automation are fundamental drivers of modern economic growth. Both create more wealth, but also change the distribution of income in society, which often increase inequality. Even the [simplest trade models][33] predict that inequality increases -- trade creates winners and losers, but winners always [gain more than losers lose][34].
 
-[Autor, Dorn & Hansen (2016)][37] put it best:
+[Autor, Dorn & Hansen (2016)][35] put it best:
 
 > In response to a given trade shock, a lower-wage employee experiences larger proportionate reductions in annual and lifetime earnings, a diminished ability to exit a job before an adverse shock hits, and a greater likelihood of exiting the labor market, relative to her higher-wage coworker.
 
@@ -174,9 +166,9 @@ In theory, we could compensate the ones losing from trade or automation by taxin
 
 ### 9) Rural communities do not recover well to unemployment shocks
 
-[Autor, Dorn & Hansen][37] show that rural communities with an economy vulnerable to trade with China (AKA factory towns) have had lower wages and labor force participation a full decade after the "China shock" on their local economy. This paints a bleak picture for the ones living in the affected communities -- while we would expect the losers from a trade deal to eventually find equivalent work in other economic sectors, those in rural communities often don't.
+[Autor, Dorn & Hansen][35] show that rural communities with an economy vulnerable to trade with China (AKA factory towns) have had lower wages and labor force participation a full decade after the "China shock" on their local economy. This paints a bleak picture for the ones living in the affected communities -- while we would expect the losers from a trade deal to eventually find equivalent work in other economic sectors, those in rural communities often don't.
 
-It's important to note the other side of this issue. China entering in trade with the global market is one of the greatest welfare gains in recorded human history. It's hard to overstate the impact: it has lifted hundreds of millions out of poverty. China's poverty rate fell from [88 percent in 1981 to 0.7 percent in 2015][38]. Human suffering has been reduced on an unprecedented historic scale in China.
+It's important to note the other side of this issue. China entering in trade with the global market is one of the greatest welfare gains in recorded human history. It's hard to overstate the impact: it has lifted hundreds of millions out of poverty. China's poverty rate fell from [88 percent in 1981 to 0.7 percent in 2015][36]. Human suffering has been reduced on an unprecedented historic scale in China.
 
 The issue with trade is that in the same event we can lift hundreds of millions of Chinese out of poverty, raise US GDP overall while also economically eviscerating some US rural manufacturing towns. Yet, somehow, we don't adequately compensate the latter from any of the of the hundreds of billions of dollars worth of gains in any of the former.
 
@@ -196,7 +188,7 @@ We've seen that while automation is the core engine for economic growth in the l
 
 The two groups that are doing well are the highly educated urbanites and "the rich" (roughly the top 0.1% or 1% of the wealth distribution). Both of these groups, but especially the ultra-rich, have had great run of increasing income.
 
-Rural demographics and those with low education have had it the worst. It's not a coincidence that rural inhabitants with low education is one of the only demographics in the last century whose life expectancy [has worsened][39]. This increase in mortality is mostly due to "deaths of despair" (suicide, drug overdose, etc. )
+Rural demographics and those with low education have had it the worst. It's not a coincidence that rural inhabitants with low education is one of the only demographics in the last century whose life expectancy [has worsened][37]. This increase in mortality is mostly due to "deaths of despair" (suicide, drug overdose, etc. )
 
 Urban dwellers without a college education are also not particularly better off. Their income is not growing particularly fast. On the other hand, urban costs of living,especially housing, but also education and healthcare rising faster than the income growth.
 
@@ -206,7 +198,7 @@ In short, we're worrying about the imaginary issues automation might cause when 
 
 # Part 2: Solutions
 
-[Furman (2016)][40] proposes the following solutions:
+[Furman (2016)][38] proposes the following solutions:
 
 *   Keep investing in AI because the benefits massively outweigh the negatives.
 
@@ -220,7 +212,7 @@ Anyone who read up to this point should agree with the above. Here is additional
 
 ### Universal Basic Income is not a particularly good answer to automation's problems
 
-From [Elon Musk][41] to Andrew Yang (Source), many advocate for Universal Basic Income (UBI) to act as a safety net against technological unemployment.
+From [Elon Musk][39] to Andrew Yang (Source), many advocate for Universal Basic Income (UBI) to act as a safety net against technological unemployment.
 
 UBI isn't necessarily a bad idea [footnote] UBI is can be mathematically equivalent to most welfare system with taxes coming in and welfare checks coming out. The advantages of UBI are that it's simpler to understand and might be lighter on bureaucracy. The important part is how much we tax and give out at each level of income. In UBI, we give everyone money unconditionally. If we want to help the poor, then comparing to other systems we need to tax less at lower income brackets, and tax more at higher inome brackets, so that the "gift" is offset by higher taxes. [/footnote]. But we saw before that the problem with automation isn't technological unemployment, it's low quality job prospects from a shifting economy.
 
@@ -232,7 +224,7 @@ We saw in sections 8 and 9 that the bargaining power of colleges against student
 
 <img src="https://www.singlelunch.com/wp-content/uploads/2019/10/1x-1.png" alt="" width="1200" height="733" class="alignnone size-full wp-image-915" />
 
-In response to that, [some][42] to argue that student loan debt should be forgiven altogether.
+In response to that, [some][40] to argue that student loan debt should be forgiven altogether.
 
 The "student debt jubilee" is a bad idea. It doesn't fix the dynamics that caused the debt crisis -- it instead shifts the cost burden from students to tax payers. In the long run, this would lead to *even higher tuitions*. Because the students are not paying the price, and the colleges hold an implacable bargaining position.
 
@@ -246,13 +238,13 @@ We saw that cities seem to be intrinsic to economic growth. Over time, a larger 
 
 Because the demand to live in cities is increasing, if we want to keep costs reasonable, we need to increase the supply of housing to match the increase.
 
-One way NOT to curb the urban housing crisis is [rent control][43] (eg. putting a ceiling on rent prices). Rent control [has been shown][44] to actually worsen the problem over time.
+One way NOT to curb the urban housing crisis is [rent control][41] (eg. putting a ceiling on rent prices). Rent control [has been shown][42] to actually worsen the problem over time.
 
 Instead, two better ways to curb housing costs are:
 
 *   Liberalize zoning regulations. Current regulations prevent housing construction in metropolitan areas like NYC and San Francisco. This prevent housing supply to match the increasing demand.
 
-*   A [tax on the value of land][45]. While we can build more housing in metropolitan areas, physics prevent us from adding more land. Taxing those who own socially valuable metropolitan land based on the value they are extracting from it redistributes this and helps reduce wealth inequality.
+*   A [tax on the value of land][43]. While we can build more housing in metropolitan areas, physics prevent us from adding more land. Taxing those who own socially valuable metropolitan land based on the value they are extracting from it redistributes this and helps reduce wealth inequality.
 
 ### Conclusion
 
@@ -288,20 +280,18 @@ It might seem strange that two seemingly similar problems that result from the l
  [26]: https://economics.mit.edu/files/9835
  [27]: https://en.wikipedia.org/wiki/Monopsony
  [28]: https://economics.mit.edu/files/17109
- [29]: https://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/
- [30]: https://www.theatlantic.com/education/archive/2018/09/why-is-college-so-expensive-in-america/569884/
- [31]: https://msu.edu/~conlinmi/teaching/EC860/signallingscreening/SpenceQJE1973.pdf
- [32]: https://slate.com/business/2019/10/andrew-yang-automation-unemployment-freedom-dividend.html
- [33]: https://www.usitc.gov/research_and_analysis/documents/Pierce%20and%20Schott%20-%20The%20Surprisingly%20Swift%20Decline%20of%20U.S.%20Manufacturing%20Employment_0.pdf
- [34]: https://research.upjohn.org/cgi/viewcontent.cgi?article=1268&context=empl_research
- [35]: https://en.wikipedia.org/wiki/Heckscher%E2%80%93Ohlin_model
- [36]: https://en.wikipedia.org/wiki/Kaldor%E2%80%93Hicks_efficiency
- [37]: https://www.ddorn.net/papers/Autor-Dorn-Hanson-ChinaShock.pdf
- [38]: https://data.worldbank.org/indicator/SI.POV.DDAY?locations=CN
- [39]: https://www.brookings.edu/wp-content/uploads/2017/08/casetextsp17bpea.pdf
- [40]: https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF
- [41]: https://twitter.com/elonmusk/status/1007762646182047744
- [42]: https://www.newyorker.com/business/currency/a-robin-hood-for-the-debt-crisis
- [43]: https://www.nytimes.com/2000/06/07/opinion/reckonings-a-rent-affair.html
- [44]: https://web.stanford.edu/~diamondr/DMQ.pdf
- [45]: https://en.wikipedia.org/wiki/Land_value_tax
+ [29]: https://msu.edu/~conlinmi/teaching/EC860/signallingscreening/SpenceQJE1973.pdf
+ [30]: https://slate.com/business/2019/10/andrew-yang-automation-unemployment-freedom-dividend.html
+ [31]: https://www.usitc.gov/research_and_analysis/documents/Pierce%20and%20Schott%20-%20The%20Surprisingly%20Swift%20Decline%20of%20U.S.%20Manufacturing%20Employment_0.pdf
+ [32]: https://research.upjohn.org/cgi/viewcontent.cgi?article=1268&context=empl_research
+ [33]: https://en.wikipedia.org/wiki/Heckscher%E2%80%93Ohlin_model
+ [34]: https://en.wikipedia.org/wiki/Kaldor%E2%80%93Hicks_efficiency
+ [35]: https://www.ddorn.net/papers/Autor-Dorn-Hanson-ChinaShock.pdf
+ [36]: https://data.worldbank.org/indicator/SI.POV.DDAY?locations=CN
+ [37]: https://www.brookings.edu/wp-content/uploads/2017/08/casetextsp17bpea.pdf
+ [38]: https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF
+ [39]: https://twitter.com/elonmusk/status/1007762646182047744
+ [40]: https://www.newyorker.com/business/currency/a-robin-hood-for-the-debt-crisis
+ [41]: https://www.nytimes.com/2000/06/07/opinion/reckonings-a-rent-affair.html
+ [42]: https://web.stanford.edu/~diamondr/DMQ.pdf
+ [43]: https://en.wikipedia.org/wiki/Land_value_tax
