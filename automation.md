@@ -54,7 +54,7 @@ The industrial revolution itself shows why the lump of labor fallacy is wrong.
 
 Before the invention of the steam engine, more than [95% of humans were employed on farms][17], whereas today this number is around 2%. The remaining 93% of the population didn't disappear or go out of a job. Instead, automating farm work freed up the labor force to be put to more productive use over time. Some young laborers went to school instead of working on the family farm, while others started working in factories. Over time, the labor force reallocated away from agriculture and into manufacturing and services.
 
-Similarly, as tasks are automated in the modern economy ----- - - - -   -- - - - -             ----------- - - - -- 
+Similarly, as tasks are automated in the modern economy (such as manufacturing tasks) workers will shift their time into other tasks like the growing service economy
 
 ### 3) Automation can help or hurt depending on who you are
 
@@ -68,18 +68,28 @@ It's almost impossible to know a priori what the outcome will be. Let's take the
 
 *   People don't want/need more radiology services. Existing radiologists can't/don't find new specialties. We have as many radiologists, but they're paid less.
 
-As we see, in the same case, our radiologist can end up making more money, less money and keep his job, or lose his job entirely. Which scenario plays out depends on economic factors like the [elasticity of supply/demand][20], the [substitution effect][21], the [income effect][22].  An interesting example of automation leading to unexpected job growth is the invention of spreadsheet software.  In 1985 there were two million bookkeepers in the United States.  Today there are only about one million.  Why?  Spreadsheet software happened.  While the number of bookkeepers halved, the number of accountants and auditors doubled (roughly 1.8 million) and the number of financial analysts exploded (around 2.1 million).  Of the million people who stopped working as bookkeepers, it's highly likely that many were freed from the most boring tasks in their job and were able to move into more interesting, productive work rather than being discarded. 
+As we see, in the same case, our radiologist can end up making more money, less money and keep his job, or lose his job entirely. Which scenario plays out depends on economic factors like the [elasticity of supply/demand][20], the [substitution effect][21], the [income effect][22]. 
 
-Another example: When ATMs were introduced to banks in the 1980s, people thought bank tellers would quickly stop existing. Over time, each bank branch did end up employing fewer tellers. However, ATMs made it cheaper to operate bank branches, so more bank branches opened and there were eventually [more bank teller jobs over all][23]:
+Second example: When ATMs were introduced to banks in the 1980s, people thought bank tellers would quickly stop existing. Over time, each bank branch did end up employing fewer tellers. However, ATMs made it cheaper to operate bank branches, so more bank branches opened and there were eventually [more bank teller jobs over all][23]:
 
 <img src="https://www.singlelunch.com/wp-content/uploads/2019/10/bessenfig1.png" alt="" width="805" height="545" class="alignnone size-full wp-image-887" />
+
+A final example of automation leading to unexpected job growth is the invention of spreadsheet software.  In 1985 there were two million bookkeepers in the United States.  [Today there are only about one million.](
+
+SOURCE SOURCE SOURCE
+
+)Between those two dates, spreadsheet software revolutionized a bookkeeper's daily work.  
+
+However, while the number of bookkeepers halved, the number of accountants and auditors doubled (roughly 1.8 million jobs) and the number of financial analysts exploded (around 2.1 million jobs).  Of the million people who stopped working as bookkeepers, many were freed from the most boring tasks in their job and were able to move into more interesting, productive work rather than being discarded. 
 
 This shows that it's extremely difficult to predict the effect of automating a task on the workers who do that task.
 
 
 ### 4) Automation may be linked to rising inequality
 
-Automating work makes a country richer on average in the long run. This doesn't mean that everyone will get richer -- automation can increase or decrease economic inequality. A quick example - if a task gets automated and a common good is now much cheaper than it used to be, this could translate into lower prices, leading to widespread consumer gains and lower inequality. But it could also lead to equivalent prices and higher profit margins, which could increase inequality. Which scenario happens depends on market concentration, among several factors.  This is just one example of how automation could impact inequality in either direction.
+Automating work makes a country richer on average in the long run. This doesn't mean that everyone will get richer -- automation can increase or decrease economic inequality. 
+
+A quick example - a task gets automated and a common good is now much cheaper to produce. This could translate into lower prices, leading to widespread consumer gains and lower inequality. But it could also lead to equivalent prices and higher profit margins, which would increase inequality. Which scenario happens depends on market concentration, among several factors.
 
 Inequality in the USA [has increased in the last 30 years.][24] There is some evidence that this is partly the result of recent technological progress, AKA automation.
 
@@ -97,17 +107,21 @@ It's not clear if the worsening income inequality is entirely because of technol
 
 *   In the US, healthcare prices far outpaces wage growth. This means higher health insurance premiums. While many workers' total compensation is increasing, their take-home pay is not increasing at the same rate due to the growing share going to health insurance.
 
-*   Trade
+*   As we'll see in section 7, internaitonal trade changes worker-employer dynamics much like automation does. While free trade is good for the population as a whole, some subgroups are left worse off.
 
-In addition to the above, one of the most important factors that might be contributing to increased inequality is Skill-Biased Technological Change
+In addition to the above, one of the most important factors that might be contributing to increased inequality is Skill-Biased Technological Change, as we'll see in the next section.
 
 ### 5) Automation may make some workers far more productive, while not impacting other workers
 
-Automation is just one way of referring to technological changes in the economy.  And new technology might not impact all workers in the same way.  New technology may make high-skill workers far more productive while not impacting the productivity of low-skill workers.  This idea is called Skill-Biased Technological Change, and shows that even if technological changes/automation is not causing job loss, it could still lead to increased inequality as high wage workers become far more productive.  Economists tend to strongly favor SBTC as an explanation for increasing inequality.
+New technology does not impact all workers in the same way. New technology may make high-skill workers far more productive while not impacting the productivity of low-skill workers. This idea is called Skill-Biased Technological Change,
+
+SOURCE SOURCE SOURCE SOURCE
+
+and shows that even if technological changes/automation is not causing job loss, it could still lead to increased inequality as high wage workers become far more productive.  Economists tend to strongly favor SBTC as an explanation for increasing inequality.
 
 INSERT IMAGE CAPTURE OF THIS IGM POLL - http://www.igmchicago.org/surveys/inequality-and-skills
 
-81% of surveyed economists agreed that SBTC was a 'leading cause' of increased inequality, compared to only 5% disagreeing.  
+81% of surveyed economists agreed that SBTC is a 'leading cause' of increased inequality, with 5% disagreeing.  
 
 Additionally, we should note that the inequality between workers with different education levels [is increasing][25]:
 
@@ -115,9 +129,15 @@ Additionally, we should note that the inequality between workers with different 
 
 Note this data shows that male high school dropout haven't increased their wages *compared to 1963*.
 
-If a nation's job market is increasingly polarized between high and low end jobs - and if technological change is also making high-skill workers disproportionately more productive -  this type of increasing gap between high education and low education workers could be the result.  The gap between earnings of college graduates and non-college graduates is called the college-wage premium, and it has been increasing for decades. Automation and technological change are a prime explanation for why that is.
+ADD EXPLANATION OF GRAPH
+
+ADD COLLEGE COSTS INCREASING BECAUSE OF VALUE HERE
+
+If a nation's job market is increasingly polarized between high and low end jobs - and if technological change is also making high-skill workers disproportionately more productive - this type of increasing gap between high education and low education workers could be the result. The gap between earnings of college graduates and non-college graduates is called the college-wage premium, and it has been increasing for decades. Automation and technological change are a prime explanation for why that is.
 
 ### 6) Automation can increase the return to capital
+
+TO WRITE TO WRITE TO WRITE
 
 (Section to be written.  Deserves a short but separate explanation of why automation might cause inequality via a split in the capital/labor reaction to automation)
 
@@ -128,7 +148,7 @@ This is a sidenote, but will help organize your thoughts on economic trends.
 
 In both the cases of free trade and automation, we replace what was previously done by labor with capital. For trade, we do it by giving the money to people in an other country in exchange for the task being completed. For automation, we do it by giving money to people to make machines to complete the task.
 
-There is a [reasonable argument][30] (NOTE - REMOVE LINK) that trade has had a much larger impact on employment in the US in the last 20 years. The reason for this is that [trade with China][31] has had a large effect on US manufacturing employment, much [more so than automation][32].
+There is a reasonable argument that trade has had a much larger impact on employment in the US in the last 20 years. The reason for this is that [trade with China][31] has had a large effect on US manufacturing employment, much [more so than automation][32].
 
 Both trade and automation are fundamental drivers of modern economic growth. Both create more wealth, but also change the distribution of income in society, which often increase inequality. Even the [simplest trade models][33] predict that inequality increases -- trade creates winners and losers, but winners always [gain more than losers lose][34].
 
@@ -140,7 +160,14 @@ In theory, we could compensate the ones losing from trade or automation by taxin
 
 ### 8) Solutions
 
-Andrew Yang's 2020 presidential campaign frequently highlighted the perceived dangers of automation.  Because of Yang's efforts, one of the most common policy solutions linked to automation is a Universal Basic Income, or UBI (insert link to UBI FAQ here).  Yang says that a UBI will act as a safety net against technological unemployment.
+Andrew Yang's 2020 presidential campaign frequently highlighted the perceived dangers of automation.  Because of Yang's efforts, one of the most common policy solutions linked to automation is a Universal Basic Income, or UBI 
+
+
+(insert link to UBI FAQ here)
+
+
+
+.  Yang says that a UBI will act as a safety net against technological unemployment.
 
 UBI isn't necessarily a bad idea [footnote] UBI can be made mathematically equivalent to most welfare system with taxes coming in and welfare checks coming out. The advantages of UBI are that it's simpler to understand and might be lighter on bureaucracy. The important part is how much we tax and give out at each level of income. In UBI, we give everyone money unconditionally. If we want to help the poor, then comparing to other systems we need to tax less at lower income brackets, and tax more at higher inome brackets, so that the "gift" is offset by higher taxes. [/footnote] on its own merits. But we saw before that the problem with automation isn't technological unemployment, it's low quality job prospects from a shifting economy.
 
